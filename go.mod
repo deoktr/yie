@@ -1,3 +1,3 @@
-module github.com/2O4/yie
+module github.com/deoktr/yie
 
 go 1.22.0

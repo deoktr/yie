@@ -3,7 +3,7 @@
 ## Usage
 
 ```sh
-go install .
+go install github.com/deoktr/yie@latest
 ```
 
 ```sh
